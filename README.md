@@ -2,11 +2,16 @@
 Shell script to download musics from youtube using youtube-dl and ffmpeg as a converter :D
 
 # Prerequisites
-### youtube-dl
-### ffmpeg
-
+```
+youtube-dl
+```
+```
+ffmpeg
+```
 # Usage
-
+```
 chmod u+x dl.sh #giving execution permission to the current user
-
+```
+```
 ./dl.sh #run the script
+```
