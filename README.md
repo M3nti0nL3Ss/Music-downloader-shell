@@ -1,9 +1,9 @@
 # Music-downloader-shell
 Shell script to download musics from youtube using youtube-dl and ffmpeg as a converter :D
 
-## Prerequests
-youtube-dl
-ffmpeg
+## Prerequisites
+# youtube-dl
+# ffmpeg
 
 ## Usage
 
